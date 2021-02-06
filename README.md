@@ -88,4 +88,6 @@ https://github.com/PuneethReddyHC/event-management
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+
+Thi is done by DevOps30 batch
 Please make sure to update tests as appropriate.
